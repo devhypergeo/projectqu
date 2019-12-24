@@ -28,3 +28,4 @@
    D. Sistem Operasi
       - Linux Ubuntu 18.04
       - Windows 10
+10. Selesai
