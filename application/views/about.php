@@ -9,5 +9,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<body>
 		<h1>About</h1>
 		<a href="home">Home</a>
+		Ini Adalah Halaman Branch
 	</body>
 </html>
