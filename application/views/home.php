@@ -8,5 +8,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	</head>
 	<body>
 		<h1>Home</h1>
+		<a href="about">About</a>
 	</body>
 </html>
