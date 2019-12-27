@@ -9,5 +9,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<body>
 		<h1>Home</h1>
 		<a href="about">About</a>
+		Ini halaman home
 	</body>
 </html>
